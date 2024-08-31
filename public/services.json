@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Primary Care",
+    "description": "General healthcare services for routine check-ups and basic medical needs.",
+    "image": "https://images.unsplash.com/photo-1576671414121-aa0c81c869e1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 120,
+    "longDescription": "Embark on a transformative journey of self-discovery and well-being at our Mindful Living Workshop. This full-day event is crafted to help you explore practices that nurture your mind, body, and soul. Guided mindfulness meditation sessions will cultivate inner peace, while yoga sessions will invigorate your body. Engage in insightful discussions on incorporating mindfulness into everyday life. Join us for a day of holistic wellness, self-reflection, and meaningful connections."
+  },
+  {
+    "id": 2,
+    "name": "Emergency Room",
+    "description": "Immediate medical attention for urgent and critical health issues.",
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 230,
+    "longDescription": "Immerse yourself in the world of nutrition and wellness at our Expo. This event is designed to provide a comprehensive understanding of healthy living. Engage with nutrition experts, sample delicious and nutritious treats, and attend workshops on sustainable eating practices. Whether you're a health enthusiast or just curious about adopting a healthier lifestyle, this expo has something for everyone. Discover the latest trends, expert insights, and practical tips to enhance your well-being."
+  },
+  {
+    "id": 3,
+    "name": "Dental Care",
+    "description": "Services related to oral health, including cleanings, fillings, and extractions.",
+    "image": "https://images.unsplash.com/photo-1508387104394-d13e1b497f85?q=80&w=1796&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 340,
+    "longDescription": "Escape the stress of daily life and join our Holistic Fitness Retreat at the beautiful Tranquil Retreat Center. This immersive experience combines the serenity of nature with rejuvenating exercises and expert-led fitness sessions. Whether you're a fitness enthusiast or a beginner, our retreat offers a holistic approach to well-being. Reconnect with your body, refresh your mind, and leave with a renewed sense of vitality. Embrace the transformative power of holistic fitness!"
+  },
+  {
+    "id": 4,
+    "name": "Orthopedic Consultation",
+    "description": "Specialized care for musculoskeletal issues and bone-related concerns.",
+    "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 180,
+    "longDescription": "Indulge in a Wellness Retreat nestled in the serene surroundings of Mountain Haven Resort. This retreat is a sanctuary for those seeking balance and rejuvenation. Immerse yourself in yoga and meditation sessions, indulge in nourishing meals, and connect with like-minded individuals. The tranquil environment will soothe your soul, providing a space for self-reflection and renewal."
+  },
+  {
+    "id": 5,
+    "name": "Mental Health Counseling",
+    "description": "Therapeutic services for mental health and emotional well-being.",
+    "image": "https://images.unsplash.com/photo-1664902275922-9cd136203ba1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 200,
+    "longDescription": "Join the 'Empower Your Mind' Seminar to gain insights into unlocking your full potential. Renowned speakers and thought leaders will share strategies for personal development, positive thinking, and overcoming obstacles. Attendees will leave with a renewed sense of purpose and actionable steps to cultivate a mindset of success and fulfillment."
+  },
+  {
+    "id": 6,
+    "name": "Vision Care",
+    "description": "Comprehensive eye exams and vision-related services.",
+    "image": "https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 150,
+    "longDescription": "Embark on a Nature Wellness Walk at Green Oasis Park, designed to rejuvenate your body and soul. This leisurely walk through lush greenery is accompanied by guided mindfulness exercises. Breathe in the fresh air, appreciate the beauty of nature, and experience the therapeutic benefits of connecting with the outdoors. A perfect opportunity to unwind and boost your well-being."
+  }
+]

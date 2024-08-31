@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. John Smith",
+      "specialty": "Cardiology",
+      "degree": "MD in Cardiology, University of Medical Sciences",
+      "experience": "15 years",
+      "image": "https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Emily Johnson",
+      "specialty": "Pediatrics",
+      "degree": "MD in Pediatrics, Children's Medical College",
+      "experience": "12 years",
+      "image": "https://plus.unsplash.com/premium_photo-1682130166544-ccbe204386ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Michael Brown",
+      "specialty": "Orthopedics",
+      "degree": "MD in Orthopedics, Ortho University, London",
+      "experience": "20 years",
+      "image": "https://plus.unsplash.com/premium_photo-1681996484614-6afde0d53071?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Sarah Adams",
+      "specialty": "Dermatology",
+      "degree": "MD in Dermatology, Skin Institute",
+      "experience": "18 years",
+      "image": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?q=80&w=1791&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Daniel Lee",
+      "specialty": "Neurology",
+      "degree": "MD in Neurology, Brain Research Center",
+      "experience": "14 years",
+      "image": "https://plus.unsplash.com/premium_photo-1661763670106-bb6926adb3ee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Olivia Taylor",
+      "specialty": "Ophthalmology",
+      "degree": "MD in Ophthalmology, Eye Institute",
+      "experience": "17 years",
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+  
